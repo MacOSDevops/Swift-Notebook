@@ -15,6 +15,12 @@ $ swift build -c <debug|release> ou $ swift run
 $ .build/<debug|release>/<NomeDoSeuBinario>
 ```
 
+### Para executar
+
+```sh
+swift run NotebookTerminalApp help
+```
+
 ### Schemas do Swift
 
 1. Entre em Product/Scheme/Manage Shemes
